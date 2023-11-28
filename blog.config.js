@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Shengsu',
+  title: 'SHENGSU',
   author: 'Shengsu',
   email: 'zsshengsu@gmail.com',
   link: 'https://periduv.com',
